@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12/07/2022, 11:01:38 PM
+    Author     : Jorge Vargas.
+*/
+
+
+.container{
+    background-color:#C0C0C0;
+    border-radius: 3%;
+    padding: 1%;
+    margin-top: 2%;  
+    margin-bottom: 2%;
+}
+
+.boton {
+  color: black;
+  width: 50%;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+  background: #6aa9ff;
+  border-radius: 8px ;
+  border-color: #0ab3e5;
+  position: relative;
+}
+.boton:hover {
+  color: rgba(255, 255, 255, 1) !important;
+  box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+  transition: all 0.2s ease;
+}
+
+
+
